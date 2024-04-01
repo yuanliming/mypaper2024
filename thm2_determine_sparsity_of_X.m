@@ -1,4 +1,4 @@
-% the sparse structure of K
+% SK denotes the sparse structure of K
 SK=[1 1 1 0 ;
     0 1 1 1 ;
     1 0 1 0;];
